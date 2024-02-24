@@ -1,0 +1,21 @@
+pkgbase = font-kotarac
+	pkgdesc = font-kotarac
+	pkgver = 1
+	pkgrel = 1
+	url = https://github.com/kotarac/font-kotarac/
+	arch = any
+	license = GPL-3.0-or-later
+	depends = gnu-free-fonts
+	depends = gsfonts
+	depends = noto-fonts
+	depends = noto-fonts-cjk
+	depends = noto-fonts-emoji
+	depends = noto-fonts-extra
+	depends = otf-latinmodern-math
+	depends = terminus-font
+	depends = ttf-liberation
+	provides = adobe-source-code-pro-fonts
+	provides = cantarell-fonts
+	provides = ttf-font
+
+pkgname = font-kotarac
